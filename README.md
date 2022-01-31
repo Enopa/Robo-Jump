@@ -10,3 +10,6 @@ It's very basic, you play as a little glowing orange square that can move left a
 There are 8 levels, all very linear in design and not too challenging, the game can be beaten in about 15 mins I'd say.
 
 It was a lot of fun to build, also taught me a lot about things I may have to use in future projects. 
+
+
+There are a lot of redundant files here because I did not know what gitignores were when I committed this all lol
